@@ -1,13 +1,13 @@
-#🏦 Risk Analytics in Banking and Financial Services
+# 🏦 Risk Analytics in Banking and Financial Services
 
 ---
 
-#📌 Problem Statement
+# 📌 Problem Statement
 The aim of this project is to develop a basic understanding of risk analytics in banking and financial services and demonstrate how data can be effectively used to minimize the risk of losing money while lending to customers.
 
 ---
 
-#✅ Solution
+# ✅ Solution
 This Power BI solution provides interactive dashboards using the latest tools in Power BI. The dashboards help financial institutions make data-driven decisions when evaluating loan applications.
 Key logic includes:
 
@@ -17,7 +17,7 @@ Declining or flagging applicants who are at risk of default.
 
 ---
 
-#📊 About the Dataset
+# 📊 About the Dataset
 The dataset contains detailed client and banking-related information. It includes multiple interrelated tables, joined using primary and foreign key relationships.
 The major tables include:
 
@@ -35,7 +35,7 @@ These tables provide a comprehensive view of each applicant’s profile, their b
 
 ---
 
-#🧠 Key Insights & Features
+# 🧠 Key Insights & Features
 Applicant profiling based on financial behavior
 
 Visual segmentation of high vs low-risk customers
@@ -46,14 +46,14 @@ KPIs and risk dashboards for management-level decisions
 
 ---
 
-#📂 Files in Repository
+# 📂 Files in Repository
 Risk_Analytics_Report.pbix – Power BI report file
 
 README.md – Project overview and documentation
 
 ---
 
-3🚀 How to Run
+# 🚀 How to Run
 Download the .pbix file.
 
 Open it in Power BI Desktop.
@@ -64,7 +64,7 @@ Optionally, connect your own banking dataset (schema must match).
 
 ---
 
-#💡 Future Enhancements
+# 💡 Future Enhancements
 Integration with real-time loan application scoring models
 
 Risk prediction using ML models with Python/R
